@@ -1,0 +1,488 @@
+Removed Pin From Net: NetName=VBTN Pin=K1-4
+Removed Pin From Net: NetName=VCC5 Pin=K1-5
+Change Component DesignItemId : Designator=U19 Old DesignItemId= New DesignItemId=24C256
+Change Component DesignItemId : Designator=TPAD Old DesignItemId= New DesignItemId=ALIENTEK
+Change Component DesignItemId : Designator=U5 Old DesignItemId= New DesignItemId=AMS1117
+Change Component DesignItemId : Designator=U8 Old DesignItemId= New DesignItemId=AMS1117
+Change Component DesignItemId : Designator=BAT Old DesignItemId= New DesignItemId=BAT
+Change Component DesignItemId : Designator=BEEP Old DesignItemId= New DesignItemId=BEEP
+Change Component DesignItemId : Designator=K1 Old DesignItemId= New DesignItemId=BUTTON
+Change Component DesignItemId : Designator=C1 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C2 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C4 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C6 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C7 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C8 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C9 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C11 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C12 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C13 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C14 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C15 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C16 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C17 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C18 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C19 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C20 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C21 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C22 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C23 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C24 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C26 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C27 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C28 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C29 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C30 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C31 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C32 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C33 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C34 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C35 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C36 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C37 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C38 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C39 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C40 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C41 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C42 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C43 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C44 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C45 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C46 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C47 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C48 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C49 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C50 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C52 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C53 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C54 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C56 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C57 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C58 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C59 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C60 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C61 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C62 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C63 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C64 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C65 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C66 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C67 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C68 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C69 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C70 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C71 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C72 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C73 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C74 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C75 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C76 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C77 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C78 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C79 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C80 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C81 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C82 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C83 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C84 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C85 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C86 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C87 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C88 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C89 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C90 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C91 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C92 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C93 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C94 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C95 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C96 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C97 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C98 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C99 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C100 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C101 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C102 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C103 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C104 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C105 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C106 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=C3 Old DesignItemId= New DesignItemId=CAP
+Change Component DesignItemId : Designator=C5 Old DesignItemId= New DesignItemId=CAP
+Change Component DesignItemId : Designator=C10 Old DesignItemId= New DesignItemId=CAP
+Change Component DesignItemId : Designator=C25 Old DesignItemId= New DesignItemId=CAP
+Change Component DesignItemId : Designator=C51 Old DesignItemId= New DesignItemId=CAP
+Change Component DesignItemId : Designator=C55 Old DesignItemId= New DesignItemId=CAP
+Change Component DesignItemId : Designator=D1 Old DesignItemId= New DesignItemId=D
+Change Component DesignItemId : Designator=D2 Old DesignItemId= New DesignItemId=D
+Change Component DesignItemId : Designator=D3 Old DesignItemId= New DesignItemId=D
+Change Component DesignItemId : Designator=D6 Old DesignItemId= New DesignItemId=D
+Change Component DesignItemId : Designator=D7 Old DesignItemId= New DesignItemId=D
+Change Component DesignItemId : Designator=D8 Old DesignItemId= New DesignItemId=D
+Change Component DesignItemId : Designator=COM2 Old DesignItemId= New DesignItemId=DB9
+Change Component DesignItemId : Designator=COM3 Old DesignItemId= New DesignItemId=DB9
+Change Component DesignItemId : Designator=U3 Old DesignItemId= New DesignItemId=DM9000A
+Change Component DesignItemId : Designator=P2 Old DesignItemId= New DesignItemId=HEAD2*22
+Change Component DesignItemId : Designator=P3 Old DesignItemId= New DesignItemId=HEAD2*22
+Change Component DesignItemId : Designator=RS1 Old DesignItemId= New DesignItemId=HEAD2
+Change Component DesignItemId : Designator=RS2 Old DesignItemId= New DesignItemId=HEAD2
+Change Component DesignItemId : Designator=J1 Old DesignItemId= New DesignItemId=HR911105
+Change Component DesignItemId : Designator=U16 Old DesignItemId= New DesignItemId=HS0038
+Change Component DesignItemId : Designator=JTAG Old DesignItemId= New DesignItemId=JTAG
+Change Component DesignItemId : Designator=KEY_0 Old DesignItemId= New DesignItemId=KEY_M
+Change Component DesignItemId : Designator=KEY_1 Old DesignItemId= New DesignItemId=KEY_M
+Change Component DesignItemId : Designator=KEY_2 Old DesignItemId= New DesignItemId=KEY_M
+Change Component DesignItemId : Designator=KEY_UP Old DesignItemId= New DesignItemId=KEY_M
+Change Component DesignItemId : Designator=RESET Old DesignItemId= New DesignItemId=KEY_M
+Change Component DesignItemId : Designator=L1 Old DesignItemId= New DesignItemId=L
+Change Component DesignItemId : Designator=L2 Old DesignItemId= New DesignItemId=L
+Change Component DesignItemId : Designator=U11 Old DesignItemId= New DesignItemId=MAX3232
+Change Component DesignItemId : Designator=U15 Old DesignItemId= New DesignItemId=MAX3485
+Change Component DesignItemId : Designator=MIC Old DesignItemId= New DesignItemId=MIC
+Change Component DesignItemId : Designator=U12 Old DesignItemId= New DesignItemId=NRF24L01
+Change Component DesignItemId : Designator=LINE_IN Old DesignItemId= New DesignItemId=PHONE_M
+Change Component DesignItemId : Designator=PHONE Old DesignItemId= New DesignItemId=PHONE_M
+Change Component DesignItemId : Designator=DC_IN Old DesignItemId= New DesignItemId=POW
+Change Component DesignItemId : Designator=F1 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R1 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R2 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R3 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R4 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R5 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R6 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R7 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R8 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R9 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R10 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R11 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R12 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R13 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R14 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R15 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R16 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R17 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R18 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R19 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R20 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R21 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R22 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R23 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R24 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R25 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R26 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R27 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R28 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R29 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R30 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R31 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R32 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R33 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R34 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R35 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R36 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R37 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R38 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R39 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R40 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R41 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R42 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R43 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R44 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R45 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R46 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R47 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R48 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R49 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R50 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R51 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R52 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R53 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R54 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R55 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R56 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R57 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R58 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R59 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R60 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R61 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R62 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R63 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R64 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R65 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R66 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R67 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R68 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R69 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R70 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R71 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R72 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R73 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R74 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R75 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R76 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R77 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R78 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R79 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=R80 Old DesignItemId= New DesignItemId=R
+Change Component DesignItemId : Designator=SD_CARD Old DesignItemId= New DesignItemId=sd card
+Change Component DesignItemId : Designator=D4 Old DesignItemId= New DesignItemId=SMBJ
+Change Component DesignItemId : Designator=D5 Old DesignItemId= New DesignItemId=SMBJ
+Change Component DesignItemId : Designator=U1 Old DesignItemId= New DesignItemId=TDA1308
+Change Component DesignItemId : Designator=2.4'/2.8'LCD Old DesignItemId= New DesignItemId=TFT_LCD
+Change Component DesignItemId : Designator=USB_232 Old DesignItemId= New DesignItemId=USB5
+Change Component DesignItemId : Designator=USB_SLAVE Old DesignItemId= New DesignItemId=USB5
+Change Component DesignItemId : Designator=U4 Old DesignItemId= New DesignItemId=VS1053
+Change Component DesignItemId : Designator=U9 Old DesignItemId=I New DesignItemId=IS61LV51216
+Change Component DesignItemId : Designator=U17 Old DesignItemId=S New DesignItemId=SN65HVD230D
+Change Component DesignItemId : Designator=SP+ Old DesignItemId=TEST- New DesignItemId=TEST-POINT
+Change Component DesignItemId : Designator=SP- Old DesignItemId=TEST- New DesignItemId=TEST-POINT
+Change Component Description : Designator=Q2 Old Description= New Description=8550/BCW68
+Change Component Description : Designator=U13 Old Description= New Description=ATK-HC05
+Change Component Description : Designator=U2 Old Description= New Description=HT6871
+Change Component Description : Designator=LS1 Old Description= New Description=LIGHT SENS
+Change Component Description : Designator=D4 Old Description= New Description=TVS
+Change Component Description : Designator=D5 Old Description= New Description=TVS
+Change Component Description : Designator=U7 Old Description= New Description=USB2UART
+Change Component Description : Designator=D9 Old Description= New Description=ZMM3V6
+Change Component Description : Designator=K2 Old Description= New Description=Áù½Å²¨¶¯¿ª¹Ø
+Change Component Description : Designator=U14 Old Description= New Description=Êý×ÖÎÂÊª¶È´«¸ÐÆ÷
+Change Component Description : Designator=SP+ Old Description= New Description=²âÊÔµã
+Change Component Description : Designator=SP- Old Description= New Description=²âÊÔµã
+Change Component Description : Designator=Q1 Old Description=8050/BCW New Description=8050/BCW846/BCW847
+Change Component Description : Designator=Q3 Old Description=8050/BCW New Description=8050/BCW846/BCW847
+Change Component Description : Designator=Y1 Old Description=Crystal New Description=Crystal Oscillator
+Change Component Description : Designator=Y2 Old Description=Crystal New Description=Crystal Oscillator
+Change Component Description : Designator=Y3 Old Description=Crystal New Description=Crystal Oscillator
+Change Component Description : Designator=Y4 Old Description=Crystal New Description=Crystal Oscillator
+Change Component Description : Designator=Y5 Old Description=Crystal New Description=Crystal Oscillator
+Change Component Description : Designator=U6 Old Description=DC DC St New Description=DC DC Step Down IC
+Change Component Description : Designator=P1 Old Description=He New Description=Header, 2-Pin
+Change Component Description : Designator=P6 Old Description=He New Description=Header, 2-Pin
+Change Component Description : Designator=P11 Old Description=He New Description=Header, 4-Pin
+Change Component Description : Designator=P4 Old Description=Head New Description=Header, 16-Pin
+Change Component Description : Designator=P5 Old Description=Header, 2-Pin New Description=Header, 2-Pin, Dual row
+Change Component Description : Designator=BOOT Old Description=Header, 3-Pin New Description=Header, 3-Pin, Dual row
+Change Component Description : Designator=P8 Old Description=Header, 3-Pin New Description=Header, 3-Pin, Dual row
+Change Component Description : Designator=P9 Old Description=Header, 3-Pin New Description=Header, 3-Pin, Dual row
+Change Component Description : Designator=P10 Old Description=Header, 3-Pin New Description=Header, 3-Pin, Dual row
+Change Component Description : Designator=VOUT1 Old Description=Header, 3-Pin New Description=Header, 3-Pin, Dual row
+Change Component Description : Designator=VOUT2 Old Description=Header, 3-Pin New Description=Header, 3-Pin, Dual row
+Change Component Description : Designator=P7 Old Description=Header, 9-Pin New Description=Header, 9-Pin, Dual row
+Change Component Description : Designator=U10 Old Description=STM New Description=STM32F103ZET6
+Change Component Description : Designator=DS1 Old Description=Typical RED, GREEN, YELLOW, AMBE New Description=Typical RED, GREEN, YELLOW, AMBER GaAs LED
+Change Component Description : Designator=DS2 Old Description=Typical RED, GREEN, YELLOW, AMBE New Description=Typical RED, GREEN, YELLOW, AMBER GaAs LED
+Change Component Description : Designator=DS3 Old Description=Typical RED, GREEN, YELLOW, AMBE New Description=Typical RED, GREEN, YELLOW, AMBER GaAs LED
+Change Component Description : Designator=U18 Old Description=W25X16;SST25VF016 New Description=W25X16;SST25VF016;MX25L1605
+Change Component Library : Designator=D3 Old Library=WarShip V3 STM32103·â×°¿â New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=L2 Old Library=WarShip V3 STM32103·â×°¿â New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=BAT Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=BEEP Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C1 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C2 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C3 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C4 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C5 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C6 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C7 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C8 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C9 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C10 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C11 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C12 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C13 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C14 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C15 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C16 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C17 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C18 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C19 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C20 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C21 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C22 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C23 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C24 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C25 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C26 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C27 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C28 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C29 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C30 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C31 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C32 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C33 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C34 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C35 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C36 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C37 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C38 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C39 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C40 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C41 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C42 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C43 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C44 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C45 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C46 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C47 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C48 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C49 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C50 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C51 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C52 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C53 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C54 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C55 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C56 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C57 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C58 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C59 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C60 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C61 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C62 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C63 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C64 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C65 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C66 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C67 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C68 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C69 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C70 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C71 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C72 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C73 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C74 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C75 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C76 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C77 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C78 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C79 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C80 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C81 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C82 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C83 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C84 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C85 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C86 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C87 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C88 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C89 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C90 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C91 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C92 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C93 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C94 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C95 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C96 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C97 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C98 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C99 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C100 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C101 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C102 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C103 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C104 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C105 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=C106 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=COM2 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=COM3 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=D1 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=D2 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=D6 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=D7 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=D8 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=DC_IN Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=F1 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=JTAG Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=KEY_0 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=KEY_1 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=KEY_2 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=KEY_UP Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=L1 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=MIC Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R1 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R2 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R3 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R4 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R5 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R6 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R7 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R8 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R9 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R10 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R11 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R12 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R13 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R14 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R15 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R16 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R17 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R18 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R19 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R20 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R21 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R22 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R23 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R24 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R25 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R26 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R27 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R28 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R29 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R30 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R31 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R32 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R33 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R34 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R35 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R36 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R37 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R38 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R39 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R40 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R41 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R42 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R43 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R44 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R45 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R46 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R47 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R48 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R49 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R50 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R51 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R52 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R53 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R54 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R55 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R56 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R57 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R58 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R59 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R60 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R61 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R62 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R63 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R64 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R65 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R66 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R67 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R68 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R69 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R70 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R71 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R72 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R73 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R74 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R75 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R76 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R77 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R78 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R79 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=R80 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=RESET Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=RS1 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=RS2 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=USB_232 Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Change Component Library : Designator=USB_SLAVE Old Library=WarShip V3 STM32103·â×°¿â.I New Library=WarShip V3 STM32103·â×°¿â.IntLib
+Added Pin To Net: NetName=VCC5 Pin=K1-2
+Added Pin To Net: NetName=VBTN Pin=K1-3
